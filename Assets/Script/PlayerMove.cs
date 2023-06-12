@@ -24,5 +24,6 @@ public class PlayerMove : MonoBehaviour
             Debug.Log("a != 1");
             a--;
         }
+       
     }
 }
